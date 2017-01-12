@@ -1,10 +1,10 @@
 {
   "name": "hyperborder",
-  "version": "0.8.0",
+  "version": "0.9.2",
   "author": "Mathias Karstädt",
   "keywords": [
-    "hyperterm"
+    "hyper hyperterm hyperborder terminal"
   ],
-  "description": "Extension for border effects in hyperterm",
+  "description": "Extension to add border effects to the Hyper terminal",
   "dependencies": {}
 }
